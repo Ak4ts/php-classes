@@ -3,6 +3,19 @@
   <head>
     <title>Palíndromos</title>
     <link href="index.css" rel="stylesheet">
+    <style>
+      table{
+        margin: 10px auto;
+        border-collapse: collapse;
+
+      }
+      td{
+        border: 2px solid grey;
+        text-align: center;
+        padding:15px;
+        color:white;
+      }
+    </style>
   </head>
   <body>
     <header> 
